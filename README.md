@@ -57,8 +57,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
@@ -85,29 +83,21 @@
 
 ## 📊 Github Stats  
 
-</br>  
-
-<p></p><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"/>
 
 </br>  
 
 ## 📑 Most Used Language
 
-</br>  
-
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gangslee&show_icons=true&locale=en&layout=compact" alt="gangslee" /></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gangslee&show_icons=true&locale=en&layout=compact" alt="gangslee" />
 
 <br/>
 
 ## 📅 Github Streak Stat
 
-</br>  
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gangslee&" alt="gangslee" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gangslee&" alt="gangslee" />
 
 </br>  
 
 ## 📫 How to reach me
-### grandnet1225@gmail.com
+- grandnet1225@gmail.com
