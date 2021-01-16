@@ -92,11 +92,5 @@
 
 <br/>
 
-## 📅 Github Streak Stat
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gangslee&" alt="gangslee" />
-
-</br>  
-
 ## 📫 How to Reach Me
 - grandnet1225@gmail.com
